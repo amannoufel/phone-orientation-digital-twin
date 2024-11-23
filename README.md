@@ -84,18 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+Project Link: [https://github.com/amannoufel/phone-orientation-digital-twin](https://github.com/amannoufel/phone-orientation-digital-twin)
 
-Project Link: [https://github.com/YOUR_USERNAME/phone-orientation-digital-twin](https://github.com/YOUR_USERNAME/phone-orientation-digital-twin)
-
-## 🙏 Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📞 Contact
-
-Your Name - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
-Email - your.email@example.com
