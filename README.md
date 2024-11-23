@@ -26,7 +26,7 @@ A real-time 3D visualization system that creates a digital twin of a phone's ori
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/phone-orientation-digital-twin.git
+   git clone https://github.com/amannoufel/phone-orientation-digital-twin.git
    cd phone-orientation-digital-twin
    ```
 
